@@ -1,0 +1,6 @@
+Description:
+Someone has designed a new architecture, which he has claimed to be free from traditional stack overflow, can you break it?
+
+nc 46.101.255.206 34999
+
+md5sum libc.so = 50390b2ae8aaa73c47745040f54e602f
